@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#page{
+}
+h1,li {
+    font-family: 'Mulish', sans-serif;;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
